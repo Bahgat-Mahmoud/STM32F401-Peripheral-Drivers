@@ -1,0 +1,20 @@
+# Build directories
+Debug/
+Release/
+
+# Build artifacts
+*.elf
+*.hex
+*.map
+*.o
+*.d
+
+# Executable files
+*.exe
+
+# IDE generated files
+.settings/
+
+# Temporary files
+*.tmp
+*~
